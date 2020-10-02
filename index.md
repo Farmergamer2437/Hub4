@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/Hub4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/Hub4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1 style="text-align: center;"><span style="color: #ff6600;">Memes</span></h1>
+<p><img src="https://static.mommypoppins.com/styles/image300x250/s3/school_meme_3_0.jpg" alt="" width="300" height="250" /></p>
+<p><a href="https://kuow-prod.imgix.net/store/47331d2e8aa08b843855a9fed369be49.jpg?ixlib=rails-2.1.4&amp;auto=format&amp;crop=faces&amp;fit=crop&amp;h=549&amp;w=800">\<img src="https://kuow-prod.imgix.net/store/47331d2e8aa08b843855a9fed369be49.jpg?ixlib=rails-2.1.4&amp;auto=format&amp;crop=faces&amp;fit=crop&amp;h=549&amp;w=800" alt="" width="304" height="239" /></a></p>
+<p><img src="https://inteng-storage.s3.amazonaws.com/img/iea/yrwQvLJbON/sizes/programmer-memes_resize_md.jpg" alt="" width="312" height="163" /></p>
+<p>click&nbsp;<a href="https://farmergamer2437.github.io/Hub2/">here to get to the index</a>.</p>
